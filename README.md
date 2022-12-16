@@ -15,7 +15,7 @@ Com uma interface gráfica desenvoldida, podem se cadastrar (com nome de usuári
 Já o administrador tem a capacidade de alterar o estoque, cadastrando novos items e também removendo-os.
 
 ## Modelagem do Problema
-***(inserir imagem ou link para diagrama UML atualizado)***  
+![Diagrama](/Classe%20UML.png) 
 Sobre as relações entre classes, abstraímos o problema para que tanto a classe Estoque quanto Carrinho são compostos por atributos de ArrayLists (da framework Collections) de Item, sendo essa classe composta por um produto e sua quantidade.  
 Por questões de encapsulamento, deixamos seus atributos como privados e desenvolvemos contrutores e métodos getters e setters para manipulá-los.  
 Na seção de login, nosso grupo não julgou prático o uso de interface, e para poder melhor aplicar o conceito de herança decidimos que uma classe abstrata seria satisfatório.  
@@ -29,8 +29,7 @@ Nesse projeto, para programar foram utilizados diversas IDEs, sendo elas:
 * Eclipse
 * IntelliJ
 * Visual Code Studio  
-
-***(inserir ferramenta utilizada para fazer diagrama)***  
+* LucidChart
 Além de também se utilizar o site markdownlivepreview.com, para ajudar na formulação deste relatório em formato markdown.
 
 ## Conclusões e Considerações Finais  
