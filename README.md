@@ -30,7 +30,7 @@ Nesse projeto, para programar foram utilizados diversas IDEs, sendo elas:
 * IntelliJ
 * Visual Code Studio  
 * LucidChart
-Além de também se utilizar o site markdownlivepreview.com, para ajudar na formulação deste relatório em formato markdown.
+* Além de também se utilizar o site markdownlivepreview.com, para ajudar na formulação deste relatório em formato markdown.
 
 ## Conclusões e Considerações Finais  
 Após uma longa resolução de problemas, além de uma implementação de interface gráfica, o programa em geral apresentou bons resultados.  
