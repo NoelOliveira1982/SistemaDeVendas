@@ -1,15 +1,11 @@
 # **Relatório do projeto final**
 #### **Linguagem de Programação I**
-## Alunos: 
-### Cauã Gomes de Melo - 20210025922
-### Jorge Alberto M. C. de Oliveira - 20210026886
-### Pedro Augusto Dias de Lima - 20210026400
   
 ### *Sistema de Mercado em Java*
 
-##### Cauã Gomes de Melo
-##### Jorge Alberto Oliveira
-##### Pedro Augusto Dias de Lima
+##### Cauã Gomes de Melo - 20210025922
+##### Jorge Alberto Oliveira - 20210026886
+##### Pedro Augusto Dias de Lima - 20210026400
 
 ###### Código fonte armazenado no GitHub
 
